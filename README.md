@@ -1,4 +1,5 @@
 -> Amazon has been automated using Selenium
+<br />
 -> Amazon will open, it will click on 'Search' and search for 'Books'
 -> Then it will sort the books according to 'Price: low to high'
 -> It will select 'Children's Books' from the filters section
